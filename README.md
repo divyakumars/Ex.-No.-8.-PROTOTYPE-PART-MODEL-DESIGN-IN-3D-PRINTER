@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
